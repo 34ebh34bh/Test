@@ -1,3 +1,3 @@
 <?php 
 
-echo "j";
+echo "commit";
